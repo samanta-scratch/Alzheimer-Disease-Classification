@@ -1,4 +1,10 @@
 # 🧠Alzheimer Disease Classification
+## Overview
+- Classified Alzheimer Diseases into 4 classes
+- Achieved 98% accuracy using Transfer Learning `EfficientNetB7`
+- Uploaded image and shown corresponding predicted Class
+
+
 ## 🗃️Datasets
 
 [Alzheimer Parkinson Disease 4 Class Dataset](https://www.kaggle.com/datasets/gokulramasamy/alzheimer-parkinson-disease)
