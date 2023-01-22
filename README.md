@@ -31,4 +31,9 @@ Transfer Learning - EfficientNetB7
 ### Confusion Matrix
 ![image](https://user-images.githubusercontent.com/113231185/213909356-e0094e34-d679-42b7-991f-9e0f7351526c.png)
 
+## 👋Contributing
 
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
