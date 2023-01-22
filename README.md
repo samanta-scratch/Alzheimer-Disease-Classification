@@ -15,4 +15,4 @@
 - IPython
 
 ## 💡Algorithms
-Convolutional Neural Network from scratch
+Transfer Learning - EfficientNetB7
