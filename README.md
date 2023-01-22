@@ -2,7 +2,7 @@
 ## Overview
 - Classified Alzheimer Diseases into 4 classes
 - Achieved 98% accuracy using Transfer Learning `EfficientNetB7`
-- Uploaded image using `ipywidgets` and shown corresponding predicted Class using `IPython`
+- Image uploaded using `ipywidgets` and shown corresponding predicted class using `IPython`
 
 
 ## 🗃️Datasets
