@@ -11,7 +11,8 @@
 - keras
 - tensorflow
 - sklearn
-- scikitplot
+- seaborn
+- IPython
 
 ## 💡Algorithms
 Convolutional Neural Network from scratch
