@@ -16,3 +16,8 @@
 
 ## 💡Algorithms
 Transfer Learning - EfficientNetB7
+
+## ⌛Performance Visualization
+### Classification Report
+![image](https://user-images.githubusercontent.com/113231185/213909273-aac515a4-b7bf-4d15-afdb-ab155ef66937.png)
+
