@@ -1,7 +1,7 @@
 # 🧠Alzheimer Disease Classification
 ## 🗃️Datasets
 
-[Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/gokulramasamy/alzheimer-parkinson-disease)
+[Alzheimer Parkinson Disease 4 Class Dataset](https://www.kaggle.com/datasets/gokulramasamy/alzheimer-parkinson-disease)
 
 ## 📦Packages
 
