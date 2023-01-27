@@ -1,6 +1,6 @@
 # 🧠Alzheimer Disease Classification
 ## Overview
-- Classified Alzheimer Diseases into 4 classes
+- Classified Alzheimer Diseases into 4 classes - `CONTROL_AD`,`CONTROL_PD`, `AD`, `PD`
 - Achieved 98% accuracy using Transfer Learning `EfficientNetB7`
 - Image uploaded using `ipywidgets` and shown corresponding predicted class using `IPython`
 
